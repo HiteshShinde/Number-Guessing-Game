@@ -1,0 +1,23 @@
+.container {
+    background-color: rgb(225, 225, 225);
+    padding: 2rem;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: peru;
+}
+
+#game p {
+    color: slateblue;
+}
+
+#guess-btn {
+    background-color: peru;
+    color: #fff;
+}
+
+#guess-btn:hover {
+    background-color: coral;
+}
